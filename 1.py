@@ -1,1 +1,2 @@
 print("poorna")
+print("pragna")
